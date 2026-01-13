@@ -27,7 +27,7 @@ $telefono = $_POST['telefono'] ?? 'No proporcionado';
     <a href="index.php">Volver al inicio</a>
 
     <footer>
-        <p>Institución Educativa Hogwarts &copy; 2024</p>
+        <p>Institución Educativa Hogwarts &copy; 2026</p>
         <p>Realizado por: Josue Ruiz Arias</p>
     </footer>
 </body>

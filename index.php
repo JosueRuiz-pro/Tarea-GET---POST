@@ -36,7 +36,7 @@
     </form>
 
     <footer>
-        <p>Institución Educativa Hogwarts &copy; 2024</p>
+        <p>Institución Educativa Hogwarts &copy; 2026</p>
         <p>Realizado por: Josue Ruiz Arias</p>
     </footer>
 </body>
